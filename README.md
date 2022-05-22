@@ -1,1 +1,1 @@
-# cypress-intermedi-rio
+# cypress-intermediario
